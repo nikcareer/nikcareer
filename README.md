@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil (Nik) 👋
+# Hi, I'm Nik
 
 ## About Me
 - **Cybersecurity Enthusiast**
@@ -12,15 +12,16 @@
 - and what not !!
 
 ## Certifications and Learning
-•	Introduction to cyber security – CISCO
-•	Diploma in Information System Audit - IIBF
-•	Certified Information System Banker - IIBF
-•	Prevention Of Cybercrimes and Fraud Management - IIBF
-•	IT Security - IIBF
-•	Certified Associate of Indian Institute of Banking and Finance (IT)
-•	Digital Banking - IIBF
-•	Anti-Money Laundering and Know Your Customer – IIBF
-•	Try Hack Me – Top 10%
+- Introduction to cyber security – CISCO
+- Diploma in Information System Audit - IIBF
+- Certified Information System Banker - IIBF
+- Prevention Of Cybercrimes and Fraud Management - IIBF
+- IT Security - IIBF
+- Certified Associate of Indian Institute of Banking and Finance (IT)
+- Digital Banking - IIBF
+- Anti-Money Laundering and Know Your Customer – IIBF
+- Try Hack Me – Top 10%
+
   
 ## Find Me Here
 - [LinkedIn](https://www.linkedin.com/in/nikcareer/)
