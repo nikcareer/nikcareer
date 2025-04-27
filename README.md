@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nikhil (Nik) 👋
 
-<!--
-**nikcareer/nikcareer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- **Cybersecurity Enthusiast**
+- **Ex-Banker**
+- I will be posting and sharing about topics that I find interesting, in field of **Cybersecurity**
 
-Here are some ideas to get you started:
+## What I Share
+- **Learning Experiences** and Insights in the world of Cyber Defense
+- **CTF Writeups** and Challenges
+- **Linux Commands** and Networking Tips
+- and what not !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications and Learning
+•	Introduction to cyber security – CISCO
+•	Diploma in Information System Audit - IIBF
+•	Certified Information System Banker - IIBF
+•	Prevention Of Cybercrimes and Fraud Management - IIBF
+•	IT Security - IIBF
+•	Certified Associate of Indian Institute of Banking and Finance (IT)
+•	Digital Banking - IIBF
+•	Anti-Money Laundering and Know Your Customer – IIBF
+•	Try Hack Me – Top 10%
+  
+## Find Me Here
+- [LinkedIn](https://www.linkedin.com/in/nikcareer/)
+- [TryHackMe](https://tryhackme.com/p/nikcareer)
+- [Email](mailto:nikcareer2025@gmail.com)
+
+
